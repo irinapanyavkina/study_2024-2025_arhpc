@@ -1,5 +1,4 @@
 COURSE = 
-
 .PHONY: all clean
 
 all: help
